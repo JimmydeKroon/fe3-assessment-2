@@ -88,18 +88,18 @@ make it so var keys holds "men" and "women", the first item in newColumns holds 
 var keys will be used to make the legend.
 
 ## features
--[D3](https://d3js.org/)
--[Data](https://github.com/fivethirtyeight/data/tree/master/college-majors)
--[Author](https://b.locks.org/mbostock)
--[D3 scaleBand](https://github.com/d3/d3-scale/blob/master/README.md#scaleBand)
--[D3 csv](https://github.com/d3/d3/wiki/CSV)
--[D3 map](https://github.com/d3/d3-collection/blob/master/README.md#map)
--[D3 transition](https://github.com/d3/d3-transition/blob/master/README.md#transition)
--[D3 select](https://github.com/d3/d3-selection/blob/master/README.md#select)
--[D3 selectAll](https://github.com/d3/d3-selection/blob/master/README.md#selectAll)
--[Selection append](https://github.com/d3/d3-selection/blob/master/README.md#selection_append)
--[Selection attr](https://github.com/d3/d3-selection/blob/master/README.md#selection_attr)
--[Selection enter](https://github.com/d3/d3-selection/blob/master/README.md#selection_enter)
+* [D3](https://d3js.org/)
+* [Data](https://github.com/fivethirtyeight/data/tree/master/college-majors)
+* [Author](https://b.locks.org/mbostock)
+* [D3 scaleBand](https://github.com/d3/d3-scale/blob/master/README.md#scaleBand)
+* [D3 csv](https://github.com/d3/d3/wiki/CSV)
+* [D3 map](https://github.com/d3/d3-collection/blob/master/README.md#map)
+* [D3 transition](https://github.com/d3/d3-transition/blob/master/README.md#transition)
+* [D3 select](https://github.com/d3/d3-selection/blob/master/README.md#select)
+* [D3 selectAll](https://github.com/d3/d3-selection/blob/master/README.md#selectAll)
+* [Selection append](https://github.com/d3/d3-selection/blob/master/README.md#selection_append)
+* [Selection attr](https://github.com/d3/d3-selection/blob/master/README.md#selection_attr)
+* [Selection enter](https://github.com/d3/d3-selection/blob/master/README.md#selection_enter)
 
 ##License
 GPL 3.0 © 2017 Jimmy de Kroon
