@@ -101,5 +101,5 @@ var keys will be used to make the legend.
 * [Selection attr](https://github.com/d3/d3-selection/blob/master/README.md#selection_attr)
 * [Selection enter](https://github.com/d3/d3-selection/blob/master/README.md#selection_enter)
 
-##License
+## License
 GPL 3.0 © 2017 Jimmy de Kroon
